@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Boutique real estate brokerage 
 
 Template Name: EstateAgency
 Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
